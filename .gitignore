@@ -40,7 +40,6 @@ Assignment1/*.nlf
 Assignment1/*.ibs
 Assignment1/*.stx
 Assignment1/netgen/*
-Assignment1/*
 Assignment1/tmperr.err
 Assignment1/xlnx_auto_0_xdb/
 Assignment1/xst/
